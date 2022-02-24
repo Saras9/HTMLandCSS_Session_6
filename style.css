@@ -73,7 +73,7 @@ body{
       font-size: 25px;
       border-radius: 3px;
       text-align: center;
-      margin-left: 500px;
+      margin-left: 400px;
      
   }
   .box a:hover{
@@ -135,7 +135,7 @@ body{
       color: dodgerblue;
       font-size: 20px;
       text-align: center;
-      margin-left: 600px;
+      margin-left: 400px;
   }
   .box3 a:hover{
       color: black;
@@ -254,7 +254,7 @@ table,td{
     font-weight: 500;
 }
 .footer_nav2{
-    margin-left: -200px;
+    margin-left: -300px;
     margin-right: 300px;
 }
 .footer_nav2 a{
