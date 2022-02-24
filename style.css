@@ -15,7 +15,7 @@ body{
 .header_nav h2{
    color: rgb(13, 119, 224); 
    display: inline;
-   margin-right: 250px;
+   margin-right: 150px;
 }
 .header_nav a{
     text-decoration: none;
